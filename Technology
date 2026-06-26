@@ -4,4 +4,8 @@ return {
     ["Help"] = "rbxassetid://128469685769989",
     ["check"] = "rbxassetid://106855593386237",
     [Terminal-line] = "rbxassetid://16149179345",
+    ["Add"] = "rbxassetid://15928997778",
+    ["Thicker-Add"] = "rbxassetid://15929013661",
+    ["Person-User-Player"] = "rbxassetid://16149111731",
+    ["Edit"] = "rbxassetid://15911231575",
 }
