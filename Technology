@@ -3,4 +3,5 @@ return {
     ["Error"] = "rbxassetid://86000033190397",
     ["Help"] = "rbxassetid://128469685769989",
     ["check"] = "rbxassetid://106855593386237",
+    [Terminal-line] = "rbxassetid://16149179345",
 }
