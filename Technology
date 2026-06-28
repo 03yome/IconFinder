@@ -1,4 +1,4 @@
 return {
-	["Refresh"] = "rbxassetid://106091057679781",
+["Refresh"] = "rbxassetid://106091057679781",
     ["Error"] = "rbxassetid://86000033190397",
 }
