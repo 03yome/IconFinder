@@ -1,0 +1,10 @@
+return {
+	["Refresh"] = "rbxassetid://106091057679781",
+	["Error"] = "rbxassetid://86000033190397",
+	["Help"] = "rbxassetid://128469685769989",
+	["check"] = "rbxassetid://106855593386237",
+	["Terminal-line"] = "rbxassetid://16149179345",
+	["Add"] = "rbxassetid://15928997778",
+	["Thicker-Add"] = "rbxassetid://15929013661",
+	["Edit"] = "rbxassetid://15911231575",
+}
