@@ -7,4 +7,7 @@ return {
 	["Add"] = "rbxassetid://15928997778",
 	["Thicker-Add"] = "rbxassetid://15929013661",
 	["Edit"] = "rbxassetid://15911231575",
+    ["User"] = "rbxassetid://16149111731",
+    ["User-Stroke-Icon"] = "rbxassetid://16149116817",
+    ["Backpack"] = "rbxassetid://12166530009",
 }
